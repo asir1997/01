@@ -26,6 +26,7 @@ realtimestt = "^0.2.41"
 pynput = "^1.7.7"
 yaspin = "^3.0.2"
 pywebview = "^5.2"
+spacy = {path = "/Users/matthewasir/01/software/spacy-3.7.6-cp311-cp311-macosx_10_9_universal2.whl"}
 
 [build-system]
 requires = ["poetry-core"]
